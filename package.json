@@ -1,6 +1,6 @@
 {
-  "name": "my-near-app",
-  "version": "1.0.0",
+  "name": "nearflipcoin",
+  "version": "1.0.2",
   "license": "(MIT AND Apache-2.0)",
   "scripts": {
     "start": "./start.sh",
@@ -30,6 +30,26 @@
     "@near-wallet-selector/nightly-connect": "^7.0.0",
     "@near-wallet-selector/sender": "^7.0.0",
     "@near-wallet-selector/wallet-connect": "^7.0.0",
-    "near-api-js": "^0.44.2"
-  }
+    "near-api-js": "^0.44.2",
+    "valir-ui": "^1.2.3"
+  },
+  "description": "just a game lib",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxvla/nearflipcoin.git"
+  },
+  "keywords": [
+    "game",
+    "lib",
+    "free",
+    "ready",
+    "to",
+    "use"
+  ],
+  "author": "zxvla",
+  "bugs": {
+    "url": "https://github.com/zxvla/nearflipcoin/issues"
+  },
+  "homepage": "https://github.com/zxvla/nearflipcoin#readme"
 }
